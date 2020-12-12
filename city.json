@@ -1,0 +1,166 @@
+{
+  "city": [
+    {
+      "id": 1,
+      "city": "မကွေးတိုင်း",
+      "cityen": "Magwe",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 2,
+      "city": "ကချင်ပြည်နယ်",
+      "cityen": " Kachin",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2018-06-14T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 3,
+      "city": "ကယားပြည်နယ်",
+      "cityen": "Kayah",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 4,
+      "city": "ကရင်ပြည်နယ်",
+      "cityen": " Kayin",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 5,
+      "city": "ချင်းပြည်နယ်",
+      "cityen": "Chin",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 6,
+      "city": "စစ်ကိုင်းတိုင်း",
+      "cityen": "Sagaing",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 7,
+      "city": "တနင်္သာရီတိုင်း",
+      "cityen": "Tanintharyi",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 8,
+      "city": "ပဲခူးတိုင်း(အရှေ့)",
+      "cityen": "Bago (East)\r\n",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 9,
+      "city": "မန္တလေးတိုင်း",
+      "cityen": "Mandalay",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 10,
+      "city": "မွန်ပြည်နယ်",
+      "cityen": "Mon",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 11,
+      "city": "ရခိုင်ပြည်နယ်",
+      "cityen": " Rakhine",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 12,
+      "city": "ရန်ကုန်တိုင်း",
+      "cityen": "Yangon",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 13,
+      "city": "ရှမ်းပြည်နယ်(အရှေ့)",
+      "cityen": "Shan(East)",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 14,
+      "city": "ဧရာ၀တီတိုင်း",
+      "cityen": "Ayeyarwady",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 15,
+      "city": "နေပြည်တော်",
+      "cityen": "Nay Pyi Taw",
+      "description": "",
+      "createddate": "2017-04-24T04:00:00.000Z",
+      "updateddate": "2017-04-24T04:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 16,
+      "city": "ရှမ်းပြည်နယ်(မြောက်)",
+      "cityen": "Shan(North)",
+      "description": "",
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 17,
+      "city": "ပဲခူးတိုင်း(အနောက်)",
+      "cityen": "Bago(West)",
+      "description": "",
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 18,
+      "city": "ရှမ်းပြည်နယ်(တောင်)",
+      "cityen": "Shan(South)",
+      "description": "",
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    }
+  ]
+}
