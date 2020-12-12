@@ -1,0 +1,2902 @@
+{
+  "township": [
+    {
+      "id": 1,
+      "township": "အိုက်ချန်",
+      "townshipen": "Aik Chan (Ai' Chun)",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 2,
+      "township": "အမရပူရ",
+      "townshipen": "Amarapura",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 3,
+      "township": "အမ်း",
+      "townshipen": "Ann",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 4,
+      "township": "အောင်လံ",
+      "townshipen": "Aunglan",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 5,
+      "township": "အရာတော်",
+      "townshipen": "Ayadaw",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 6,
+      "township": "ပဲခူး",
+      "townshipen": "Bago",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 7,
+      "township": "ဗန်းမောက်",
+      "townshipen": "Banmauk",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 8,
+      "township": "ဘောလခဲ",
+      "townshipen": "Bawlake",
+      "cityid": 3,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 9,
+      "township": "ဗန်းမော်",
+      "townshipen": "Bhamo",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 10,
+      "township": "ဘီးလင်း",
+      "townshipen": "Bilin",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 11,
+      "township": "ဘိုကလေး",
+      "townshipen": "Bogale",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 12,
+      "township": "ဘုတ်ပြင်း",
+      "townshipen": "Bokpyin",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 13,
+      "township": "ဘုတလင်",
+      "townshipen": "Budalin",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 14,
+      "township": "ဘူးသီးတောင်",
+      "townshipen": "Buthidaung",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 15,
+      "township": "ချောက်",
+      "townshipen": "Chauk",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 16,
+      "township": "ချောင်းဦး",
+      "townshipen": "Chaung-U",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 17,
+      "township": "ချောင်းဆုံ",
+      "townshipen": "Chaungzon",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 18,
+      "township": "ချင်းရွှေဟော်မြို့နယ်ခွဲ (အထူးဒေသ ၁)",
+      "townshipen": "Chinshwehaw Sub-township (Kokang SAZ)",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 19,
+      "township": "ချီဗွေ",
+      "townshipen": "Chipwi",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 20,
+      "township": "ဒဂုံမြို့သစ်အရှေ့ပိုင်း",
+      "townshipen": "Dagon Myothit (East)",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 21,
+      "township": "ဒဂုံမြို့သစ်ဆိပ်ကမ်း",
+      "townshipen": "Dagon Myothit (Seikkan)",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 22,
+      "township": "ဒဂုံမြို့သစ်တောင်ပိုင်း",
+      "townshipen": "Dagon Myothit (South)",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 23,
+      "township": "ဒိုက်ဦး",
+      "townshipen": "Daik-U",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 24,
+      "township": "ဒလ",
+      "townshipen": "Dala",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 25,
+      "township": "ဓနုဖြူ",
+      "townshipen": "Danubyu",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 26,
+      "township": "ထားဝယ်",
+      "townshipen": "Dawei",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 27,
+      "township": "ဒေးဒရဲ",
+      "townshipen": "Dedaye",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 28,
+      "township": "ဒီမောဆို",
+      "townshipen": "Demoso",
+      "cityid": 3,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 29,
+      "township": "ဒက္ခိဏသီရိ",
+      "townshipen": "Det Khi Na Thi Ri",
+      "cityid": 15,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 30,
+      "township": "အိမ္မဲ",
+      "townshipen": "Einme",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 31,
+      "township": "ဖလမ်း",
+      "townshipen": "Falam",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 32,
+      "township": "ဂန့်ဂေါ",
+      "townshipen": "Gangaw",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 33,
+      "township": "ဂွ",
+      "townshipen": "Gwa",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 34,
+      "township": "ကြို့ပင်ကောက်",
+      "townshipen": "Gyobingauk",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 35,
+      "township": "ဟားခါး",
+      "townshipen": "Hakha",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 36,
+      "township": "ဟင်္သာတ",
+      "townshipen": "Hinthada",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 37,
+      "township": "ခန္တီး",
+      "townshipen": "Hkamti",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 38,
+      "township": "ခွန်းမား",
+      "townshipen": "Hkun Mar (Hkwin Ma)",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 39,
+      "township": "လှိုင်းဘွဲ့",
+      "townshipen": "Hlaingbwe",
+      "cityid": 4,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 40,
+      "township": "လှိုင်သာယာ",
+      "townshipen": "Hlaingtharya",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 41,
+      "township": "လှည်းကူး",
+      "townshipen": "Hlegu",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 42,
+      "township": "မှော်ဘီ",
+      "townshipen": "Hmawbi",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 43,
+      "township": "ဟိုတောင်း",
+      "townshipen": "Ho Tawng (Ho Tao)",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 44,
+      "township": "ဟုမ္မလင်း",
+      "townshipen": "Homalin",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 45,
+      "township": "ဟိုပန်",
+      "townshipen": "Hopang",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 46,
+      "township": "ဟိုပုံး",
+      "townshipen": "Hopong",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 47,
+      "township": "ဘားအံ",
+      "townshipen": "Hpa-An",
+      "cityid": 4,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 48,
+      "township": "ဖားကန့်",
+      "townshipen": "Hpakant",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 49,
+      "township": "ဖာပွန်",
+      "townshipen": "Hpapun",
+      "cityid": 4,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 50,
+      "township": "ဖားဆောင်း",
+      "townshipen": "Hpasawng",
+      "cityid": 3,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 51,
+      "township": "ဖရူဆို",
+      "townshipen": "Hpruso",
+      "cityid": 3,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 52,
+      "township": "ဆောင်ဖ",
+      "townshipen": "Hsawng Hpa (Saun Pha)",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 53,
+      "township": "သိန်းနီ",
+      "townshipen": "Hseni",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 54,
+      "township": "ဆီဆိုင်",
+      "townshipen": "Hsihseng",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 55,
+      "township": "သီပေါ",
+      "townshipen": "Hsipaw",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 56,
+      "township": "ထန်းတပင်",
+      "townshipen": "Htantabin",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 57,
+      "township": "အင်းတော်",
+      "townshipen": "Indaw",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 58,
+      "township": "အင်္ဂပူ",
+      "townshipen": "Ingapu",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 59,
+      "township": "အင်ဂျန်းယန်",
+      "townshipen": "Injangyang",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 60,
+      "township": "ကလောင်ဖါ",
+      "townshipen": "Ka Lawng Hpar",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 61,
+      "township": "ကလော",
+      "townshipen": "Kalaw",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 62,
+      "township": "ကလေး",
+      "townshipen": "Kale",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 63,
+      "township": "ကလေးဝ",
+      "townshipen": "Kalewa",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 64,
+      "township": "ကံမ",
+      "townshipen": "Kamma",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 65,
+      "township": "ကန့်ဘလူ",
+      "townshipen": "Kanbalu",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 66,
+      "township": "ကန်ကြီးထောင့်",
+      "townshipen": "Kangyidaunt",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 67,
+      "township": "ကနီ",
+      "townshipen": "Kani",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 68,
+      "township": "ကန်ပက်လက်",
+      "townshipen": "Kanpetlet",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 69,
+      "township": "ကသာ",
+      "townshipen": "Katha",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 70,
+      "township": "ကဝ",
+      "townshipen": "Kawa",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 71,
+      "township": "ကော့မှုး",
+      "townshipen": "Kawhmu",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 72,
+      "township": "ကော့ကရိတ်",
+      "townshipen": "Kawkareik",
+      "cityid": 4,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 73,
+      "township": "ကောလင်း",
+      "townshipen": "Kawlin",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 74,
+      "township": "ကောင်မင်ဆန်း",
+      "townshipen": "Kawng Min Hsang",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 75,
+      "township": "ကော့သောင်း",
+      "townshipen": "Kawthoung",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 76,
+      "township": "ခရမ်း",
+      "townshipen": "Kayan",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 77,
+      "township": "ကျိုင်းတုံ",
+      "townshipen": "Kengtung",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 78,
+      "township": "ခေါင်လန်ဖူး",
+      "townshipen": "Khaunglanhpu",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 79,
+      "township": "ခင်ဦး",
+      "townshipen": "Khin-U",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 80,
+      "township": "ကုန်းကြမ်း",
+      "townshipen": "Konkyan",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 81,
+      "township": "ကုန်းကြမ်း (အထူးဒေသ ၁)",
+      "townshipen": "Konkyan (Kokang SAZ)",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 82,
+      "township": "ကွမ်းခြံကုန်း",
+      "townshipen": "Kungyangon",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 83,
+      "township": "ကွန်ဟိန်း",
+      "townshipen": "Kunhing",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 84,
+      "township": "ကွမ်းလုံ",
+      "townshipen": "Kunlong",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 85,
+      "township": "ကွတ်ခိုင်",
+      "townshipen": "Kutkai",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 86,
+      "township": "ကျိုက်လတ်",
+      "townshipen": "Kyaiklat",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 87,
+      "township": "ကျိုက္မရော",
+      "townshipen": "Kyaikmaraw",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 88,
+      "township": "ကျိုက်ထို",
+      "townshipen": "Kyaikto",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 89,
+      "township": "ကြာအင်းဆိပ်ကြီး",
+      "townshipen": "Kyainseikgyi",
+      "cityid": 4,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 90,
+      "township": "ကြံခင်း",
+      "townshipen": "Kyangin",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 91,
+      "township": "ကျောက်ကြီး",
+      "townshipen": "Kyaukkyi",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 92,
+      "township": "ကျောက်မဲ",
+      "townshipen": "Kyaukme",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 93,
+      "township": "ကျောက်ပန်းတောင်း",
+      "townshipen": "Kyaukpadaung",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 94,
+      "township": "ကျောက်ဖြူ",
+      "townshipen": "Kyaukpyu",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 95,
+      "township": "ကျောက်ဆည်",
+      "townshipen": "Kyaukse",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 96,
+      "township": "ကျောက်တံခါး",
+      "townshipen": "Kyauktaga",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 97,
+      "township": "ကျောက်တန်း",
+      "townshipen": "Kyauktan",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 98,
+      "township": "ကျောက်တော်",
+      "townshipen": "Kyauktaw",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 99,
+      "township": "ကျောင်းကုန်း",
+      "townshipen": "Kyaunggon",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 100,
+      "township": "ကျေးသီး",
+      "townshipen": "Kyethi",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 101,
+      "township": "ကျုံပျော်",
+      "townshipen": "Kyonpyaw",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 102,
+      "township": "ကျွန်းလှ",
+      "townshipen": "Kyunhla",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 103,
+      "township": "ကျွန်းစု",
+      "townshipen": "Kyunsu",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 104,
+      "township": "လပွတ္တာ",
+      "townshipen": "Labutta",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 105,
+      "township": "လဟယ်",
+      "townshipen": "Lahe",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 106,
+      "township": "လဲချား",
+      "townshipen": "Laihka",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 107,
+      "township": "လင်းခေး",
+      "townshipen": "Langkho",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 108,
+      "township": "လားရှိုး",
+      "townshipen": "Lashio",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 109,
+      "township": "လောက်ကိုင်",
+      "townshipen": "Laukkaing",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 110,
+      "township": "လောက်ကိုင် (အထူးဒေသ ၁)",
+      "townshipen": "Laukkaing (Kokang SAZ)",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 111,
+      "township": "လောင်းလုံ",
+      "townshipen": "Launglon",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 112,
+      "township": "ရပ်စောက်",
+      "townshipen": "Lawksawk",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 113,
+      "township": "လေရှီး",
+      "townshipen": "Lay Shi",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 114,
+      "township": "လေးမျက်နှာ",
+      "townshipen": "Lemyethna",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 115,
+      "township": "လက်ပံတန်း",
+      "townshipen": "Letpadan",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 116,
+      "township": "လယ်ဝေး",
+      "townshipen": "Lewe",
+      "cityid": 15,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 117,
+      "township": "လင်ဟော်",
+      "townshipen": "Lin Haw",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 118,
+      "township": "လွိုင်ကော်",
+      "townshipen": "Loikaw",
+      "cityid": 3,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 119,
+      "township": "လွိုင်လင်",
+      "townshipen": "Loilen",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 120,
+      "township": "လုံထန်",
+      "townshipen": "Long Htan",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 121,
+      "township": "မဘိမ်း",
+      "townshipen": "Mabein",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 122,
+      "township": "မချမ်းဘော",
+      "townshipen": "Machanbaw",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 123,
+      "township": "မတ္တရာ",
+      "townshipen": "Madaya",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 124,
+      "township": "မကွေး",
+      "townshipen": "Magway",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 125,
+      "township": "မလှိုင်",
+      "townshipen": "Mahlaing",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 126,
+      "township": "မန်မန်ဆိုင်",
+      "townshipen": "Man Man Hseng",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 127,
+      "township": "မန်တွန်း",
+      "townshipen": "Man Tun",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 128,
+      "township": "မန်စီ",
+      "townshipen": "Mansi",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 129,
+      "township": "မန်တွန်း",
+      "townshipen": "Manton",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 130,
+      "township": "မက်မန်း",
+      "townshipen": "Matman",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 131,
+      "township": "မတူပီ",
+      "townshipen": "Matupi",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 132,
+      "township": "မအူပင်",
+      "townshipen": "Maubin",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 133,
+      "township": "မောင်တော",
+      "townshipen": "Maungdaw",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 134,
+      "township": "မောက်မယ်",
+      "townshipen": "Mawkmai",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 135,
+      "township": "မော်လိုက်",
+      "townshipen": "Mawlaik",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 136,
+      "township": "မော်လမြိုင်",
+      "townshipen": "Mawlamyine",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 137,
+      "township": "မော်လမြိုင်ကျွန်း",
+      "townshipen": "Mawlamyinegyun",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 138,
+      "township": "မိတ္ထီလာ",
+      "townshipen": "Meiktila",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 139,
+      "township": "မယ်စဲ့",
+      "townshipen": "Mese",
+      "cityid": 3,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 140,
+      "township": "မင်းဘူး",
+      "townshipen": "Minbu",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 141,
+      "township": "မင်းပြား",
+      "townshipen": "Minbya",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 142,
+      "township": "မင်းတပ်",
+      "townshipen": "Mindat",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 143,
+      "township": "မင်းတုန်း",
+      "townshipen": "Mindon",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 144,
+      "township": "မင်္ဂလာဒုံ",
+      "townshipen": "Mingaladon",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 145,
+      "township": "မင်းကင်း",
+      "townshipen": "Mingin",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 146,
+      "township": "မင်းလှ",
+      "townshipen": "Minhla",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 147,
+      "township": "မိုးကောင်း",
+      "townshipen": "Mogaung",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 148,
+      "township": "မိုးကုတ်",
+      "townshipen": "Mogoke",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 149,
+      "township": "မိုးညှင်း",
+      "townshipen": "Mohnyin",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 150,
+      "township": "မိုးမောက်",
+      "townshipen": "Momauk",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 151,
+      "township": "မိုင်းဖျန်",
+      "townshipen": "Mong Hpen",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 152,
+      "township": "မိုင်းကာ",
+      "townshipen": "Mong Kar",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 153,
+      "township": "မိုင်းပေါက်",
+      "townshipen": "Mong Pawk",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 154,
+      "township": "မိုင်းဖြတ်",
+      "townshipen": "Monghpyak",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 155,
+      "township": "မိုင်းဆတ်",
+      "townshipen": "Monghsat",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 156,
+      "township": "မိုင်းရှုး",
+      "townshipen": "Monghsu",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 157,
+      "township": "မိုင်းကိုင်",
+      "townshipen": "Mongkaing",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 158,
+      "township": "မိုင်းခတ်",
+      "townshipen": "Mongkhet",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 159,
+      "township": "မိုင်းလား",
+      "townshipen": "Mongla",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 160,
+      "township": "မိုင်းမော",
+      "townshipen": "Mongmao",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 161,
+      "township": "မိုးမိတ်",
+      "townshipen": "Mongmit",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 162,
+      "township": "မိုးနဲ",
+      "townshipen": "Mongnai",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 163,
+      "township": "မိုင်းပန်",
+      "townshipen": "Mongpan",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 164,
+      "township": "မိုင်းပျင်း",
+      "townshipen": "Mongping",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 165,
+      "township": "မိုင်းတုံ",
+      "townshipen": "Mongton",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 166,
+      "township": "မိုင်းရယ်",
+      "townshipen": "Mongyai",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 167,
+      "township": "မိုင်းယန်း",
+      "townshipen": "Mongyang",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 168,
+      "township": "မိုင်းယောင်း",
+      "townshipen": "Mongyawng",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 169,
+      "township": "မိုးညို",
+      "townshipen": "Monyo",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 170,
+      "township": "မုံရွာ",
+      "townshipen": "Monywa",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 171,
+      "township": "မြောက်ဦး",
+      "townshipen": "Mrauk-U",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 172,
+      "township": "မုဒုံ",
+      "townshipen": "Mudon",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 173,
+      "township": "မာန်အောင်",
+      "townshipen": "Munaung",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 174,
+      "township": "မူဆယ်",
+      "townshipen": "Muse",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 175,
+      "township": "မြိုင်",
+      "townshipen": "Myaing",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 176,
+      "township": "မြန်အောင်",
+      "townshipen": "Myanaung",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 177,
+      "township": "မြောင်",
+      "townshipen": "Myaung",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 178,
+      "township": "မြောင်းမြ",
+      "townshipen": "Myaungmya",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 179,
+      "township": "မြဝတီ",
+      "townshipen": "Myawaddy",
+      "cityid": 4,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 180,
+      "township": "မြေပုံ",
+      "townshipen": "Myebon",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 181,
+      "township": "မြိတ်",
+      "townshipen": "Myeik",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 182,
+      "township": "မြင်းခြံ",
+      "townshipen": "Myingyan",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 183,
+      "township": "မြင်းမူ",
+      "townshipen": "Myinmu",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 184,
+      "township": "မြစ်ကြီးနား",
+      "townshipen": "Myitkyina",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 185,
+      "township": "မြစ်သား",
+      "townshipen": "Myittha",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 186,
+      "township": "မြို့သစ်",
+      "townshipen": "Myothit",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 187,
+      "township": "နမ်ခမ်းဝူး",
+      "townshipen": "Nam Hkam Wu",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 188,
+      "township": "နမ့်ဖိုင်",
+      "townshipen": "Nam Hpai",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 189,
+      "township": "နမ့် တစ်",
+      "townshipen": "Nam Tit",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 190,
+      "township": "နမ့်ခမ်း",
+      "townshipen": "Namhkan",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 191,
+      "township": "နမ့်ဆန်",
+      "townshipen": "Namhsan",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 192,
+      "township": "နမ္မတူ",
+      "townshipen": "Namtu",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 193,
+      "township": "နမ့်စန်",
+      "townshipen": "Nansang",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 194,
+      "township": "နန်းယွန်း",
+      "townshipen": "Nanyun",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 195,
+      "township": "နားကောင်",
+      "townshipen": "Nar Kawng",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 196,
+      "township": "နာဝီး",
+      "townshipen": "Nar Wee (Na Wi)",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 197,
+      "township": "နားဖန့်",
+      "townshipen": "Narphan",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 198,
+      "township": "နတ်မောက်",
+      "townshipen": "Natmauk",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 199,
+      "township": "နွားထိုးကြီး",
+      "townshipen": "Natogyi",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 200,
+      "township": "နတ္တလင်း",
+      "townshipen": "Nattalin",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 201,
+      "township": "နောင်ခစ်",
+      "townshipen": "Nawng Hkit",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 202,
+      "township": "နောင်ချို",
+      "townshipen": "Nawnghkio",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 203,
+      "township": "နောင်မွန်း",
+      "townshipen": "Nawngmun",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 204,
+      "township": "ငဖဲ",
+      "townshipen": "Ngape",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 205,
+      "township": "ငပုတော",
+      "townshipen": "Ngapudaw",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 206,
+      "township": "ငါန်းဇွန်",
+      "townshipen": "Ngazun",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 207,
+      "township": "ညောင်ဦး",
+      "townshipen": "Nyaung-U",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 208,
+      "township": "ညောင်တုန်း",
+      "townshipen": "Nyaungdon",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 209,
+      "township": "ညောင်လေးပင်",
+      "townshipen": "Nyaunglebin",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 210,
+      "township": "ညောင်ရွှေ",
+      "townshipen": "Nyaungshwe",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 211,
+      "township": "ဥတ္တရသီရိ",
+      "townshipen": "Oke Ta Ra Thi Ri",
+      "cityid": 15,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 212,
+      "township": "အုတ်ဖို",
+      "townshipen": "Okpho",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 213,
+      "township": "အုတ်တွင်း",
+      "townshipen": "Oktwin",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 214,
+      "township": "ပန်းတောင်း",
+      "townshipen": "Padaung",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 215,
+      "township": "ပခုက္ကူ",
+      "townshipen": "Pakokku",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 216,
+      "township": "ပုလော",
+      "townshipen": "Palaw",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 217,
+      "township": "ပုလဲ",
+      "townshipen": "Pale",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 218,
+      "township": "ပလက်ဝ",
+      "townshipen": "Paletwa",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 219,
+      "township": "ပန်ခမ့်",
+      "townshipen": "Pang Hkam",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 220,
+      "township": "ပန်ယန်း",
+      "townshipen": "Pang Yang",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 221,
+      "township": "ပန်ဆန်း",
+      "townshipen": "Pangsang",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 222,
+      "township": "ပန်ဝိုင်း",
+      "townshipen": "Pangwaun",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 223,
+      "township": "ပန်းတနော်",
+      "townshipen": "Pantanaw",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 224,
+      "township": "ပုသိမ်",
+      "townshipen": "Pathein",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 225,
+      "township": "ပုသိမ်ကြီး",
+      "townshipen": "Patheingyi",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 226,
+      "township": "ပေါက်",
+      "townshipen": "Pauk",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 227,
+      "township": "ပေါက်ခေါင်း",
+      "townshipen": "Paukkhaung",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 228,
+      "township": "ပေါက်တော",
+      "townshipen": "Pauktaw",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 229,
+      "township": "ပေါင်",
+      "townshipen": "Paung",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 230,
+      "township": "ဖေါင်းပြင်",
+      "townshipen": "Paungbyin",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 231,
+      "township": "ပေါင်းတည်",
+      "townshipen": "Paungde",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 232,
+      "township": "ဖယ်ခုံ",
+      "townshipen": "Pekon",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 233,
+      "township": "ဖြူး",
+      "townshipen": "Phyu",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 234,
+      "township": "ပင်းတယ",
+      "townshipen": "Pindaya",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 235,
+      "township": "ပင်လောင်း",
+      "townshipen": "Pinlaung",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 236,
+      "township": "ပင်လည်ဘူး",
+      "townshipen": "Pinlebu",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 237,
+      "township": "ပုဗ္ဗသီရိ",
+      "townshipen": "Poke Ba Thi Ri",
+      "cityid": 15,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 238,
+      "township": "ပုဏ္ဏားကျွန်း",
+      "townshipen": "Ponnagyun",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 239,
+      "township": "ပူတာအို",
+      "townshipen": "Puta-O",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 240,
+      "township": "ပွင့်ဖြူ",
+      "townshipen": "Pwintbyu",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 241,
+      "township": "ဖျာပုံ",
+      "townshipen": "Pyapon",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 242,
+      "township": "ပျော်ဘွယ်",
+      "townshipen": "Pyawbwe",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 243,
+      "township": "ပြည်",
+      "townshipen": "Pyay",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 244,
+      "township": "ပျဉ်းမနား",
+      "townshipen": "Pyinmana",
+      "cityid": 15,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 245,
+      "township": "ပြင်ဦးလွင်",
+      "townshipen": "Pyinoolwin",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 246,
+      "township": "ရမ်းဗြဲ",
+      "townshipen": "Ramree",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 247,
+      "township": "ရသေ့တောင်",
+      "townshipen": "Rathedaung",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 248,
+      "township": "စစ်ကိုင်း",
+      "townshipen": "Sagaing",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 249,
+      "township": "စလင်း",
+      "townshipen": "Salin",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 250,
+      "township": "ဆားလင်းကြီး",
+      "townshipen": "Salingyi",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 251,
+      "township": "ဆော",
+      "townshipen": "Saw",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 252,
+      "township": "ဆိပ်ဖြူ",
+      "townshipen": "Seikphyu",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 253,
+      "township": "ရှားတော",
+      "townshipen": "Shadaw",
+      "cityid": 3,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 254,
+      "township": "ရွှေဘို",
+      "townshipen": "Shwebo",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 255,
+      "township": "ရွှေတောင်",
+      "townshipen": "Shwedaung",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 256,
+      "township": "ရွှေကူ",
+      "townshipen": "Shwegu",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 257,
+      "township": "ရွှေကျင်",
+      "townshipen": "Shwegyin",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 258,
+      "township": "ရွှေပြည်သာ",
+      "townshipen": "Shwepyithar",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 259,
+      "township": "စေတုတ္တရာ",
+      "townshipen": "Sidoktaya",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 260,
+      "township": "ဆင်ပေါင်ဝဲ",
+      "townshipen": "Sinbaungwe",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 261,
+      "township": "စဉ့်ကူး",
+      "townshipen": "Singu",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 262,
+      "township": "စဉ့်ကိုင်",
+      "townshipen": "Sintgaing",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 263,
+      "township": "စစ်တွေ",
+      "townshipen": "Sittwe",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 264,
+      "township": "ဆွမ်ပရာဘွမ်",
+      "townshipen": "Sumprabum",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 265,
+      "township": "ဒီပဲယင်း",
+      "townshipen": "Tabayin",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 266,
+      "township": "တာချီလိတ်",
+      "townshipen": "Tachileik",
+      "cityid": 13,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 267,
+      "township": "တံတားဦး",
+      "townshipen": "Tada-U",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 268,
+      "township": "တိုက်ကြီး",
+      "townshipen": "Taikkyi",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 269,
+      "township": "တမူး",
+      "townshipen": "Tamu",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 270,
+      "township": "တနိုင်း",
+      "townshipen": "Tanai",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 271,
+      "township": "တန့်ယန်း",
+      "townshipen": "Tangyan",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 272,
+      "township": "တနင်္သာရီ",
+      "townshipen": "Tanintharyi",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 273,
+      "township": "တပ်ကုန်း",
+      "townshipen": "Tatkon",
+      "cityid": 15,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 274,
+      "township": "တောင်တွင်းကြီး",
+      "townshipen": "Taungdwingyi",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 275,
+      "township": "တောင်ကြီး",
+      "townshipen": "Taunggyi",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 276,
+      "township": "တောင်ငူ",
+      "townshipen": "Taungoo",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 277,
+      "township": "တောင်သာ",
+      "townshipen": "Taungtha",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 278,
+      "township": "တန့်ဆည်",
+      "townshipen": "Taze",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 279,
+      "township": "တီးတိန်",
+      "townshipen": "Tedim",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 280,
+      "township": "သာပေါင်း",
+      "townshipen": "Thabaung",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 281,
+      "township": "သပိတ်ကျဉ်း",
+      "townshipen": "Thabeikkyin",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 282,
+      "township": "သနပ်ပင်",
+      "townshipen": "Thanatpin",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 283,
+      "township": "သံဖြူဇရပ်",
+      "townshipen": "Thanbyuzayat",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 284,
+      "township": "သံတောင်ကြီး",
+      "townshipen": "Thandaunggyi",
+      "cityid": 4,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 285,
+      "township": "သံတွဲ",
+      "townshipen": "Thandwe",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 286,
+      "township": "သန်လျှင်",
+      "townshipen": "Thanlyin",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 287,
+      "township": "ထန်တလန်",
+      "townshipen": "Thantlang",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 288,
+      "township": "သထုံ",
+      "townshipen": "Thaton",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 289,
+      "township": "သာယာဝတီ",
+      "townshipen": "Thayarwady",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 290,
+      "township": "သရက်",
+      "townshipen": "Thayet",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 291,
+      "township": "သရက်ချောင်း",
+      "townshipen": "Thayetchaung",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 292,
+      "township": "သာစည်",
+      "townshipen": "Thazi",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 293,
+      "township": "သဲကုန်း",
+      "townshipen": "Thegon",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 294,
+      "township": "သုံးခွ",
+      "townshipen": "Thongwa",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 295,
+      "township": "ထီးချိုင့်",
+      "townshipen": "Tigyaing",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 296,
+      "township": "ထီးလင်း",
+      "townshipen": "Tilin",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 297,
+      "township": "တွန်းဇံ",
+      "townshipen": "Tonzang",
+      "cityid": 5,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 298,
+      "township": "တောင်ကုတ်",
+      "townshipen": "Toungup",
+      "cityid": 11,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 299,
+      "township": "ဆော့လော်",
+      "townshipen": "Tsawlaw",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 300,
+      "township": "တွံတေး",
+      "townshipen": "Twantay",
+      "cityid": 12,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 301,
+      "township": "ဝိုင်းမော်",
+      "townshipen": "Waingmaw",
+      "cityid": 2,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 302,
+      "township": "ဝါးခယ်မ",
+      "townshipen": "Wakema",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 303,
+      "township": "ဝေါ",
+      "townshipen": "Waw",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 304,
+      "township": "ဝက်လက်",
+      "townshipen": "Wetlet",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 305,
+      "township": "ဝမ်းတွင်း",
+      "townshipen": "Wundwin",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 306,
+      "township": "ဝန်းသို",
+      "townshipen": "Wuntho",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 307,
+      "township": "ရမည်းသင်း",
+      "townshipen": "Yamethin",
+      "cityid": 9,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 308,
+      "township": "ယောင်လင်း",
+      "townshipen": "Yawng Lin",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 309,
+      "township": "ရေး",
+      "townshipen": "Ye",
+      "cityid": 10,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 310,
+      "township": "ရေဦး",
+      "townshipen": "Ye-U",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 311,
+      "township": "ရေဖြူ",
+      "townshipen": "Yebyu",
+      "cityid": 7,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 312,
+      "township": "ရေတာရှည်",
+      "townshipen": "Yedashe",
+      "cityid": 8,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 313,
+      "township": "ရေကြည်",
+      "townshipen": "Yegyi",
+      "cityid": 14,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 314,
+      "township": "ရေနံချောင်း",
+      "townshipen": "Yenangyaung",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 315,
+      "township": "ရေစကြို",
+      "townshipen": "Yesagyo",
+      "cityid": 1,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 316,
+      "township": "ရင်ဖန့်",
+      "townshipen": "Yin Pang",
+      "cityid": 16,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 317,
+      "township": "ယင်းမာပင်",
+      "townshipen": "Yinmarbin",
+      "cityid": 6,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 318,
+      "township": "ရွာငံ",
+      "townshipen": "Ywangan",
+      "cityid": 18,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 319,
+      "township": "ဇမ္ဗူသီရိ",
+      "townshipen": "Za Bu Thi Ri",
+      "cityid": 15,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 320,
+      "township": "ဇလွန်",
+      "townshipen": "Zalun",
+      "cityid": 14,
+      "createddate": "2019-08-14T04:00:00.000Z",
+      "updateddate": "2020-01-17T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 321,
+      "township": "ဇေယျာသီရိ",
+      "townshipen": "Zay Yar Thi Ri",
+      "cityid": 15,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    },
+    {
+      "id": 322,
+      "township": "ဇီးကုန်း",
+      "townshipen": "Zigon",
+      "cityid": 17,
+      "createddate": "2019-01-30T05:00:00.000Z",
+      "updateddate": "2019-01-30T05:00:00.000Z",
+      "actions": ""
+    }
+  ]
+}
